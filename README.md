@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Emmanuel!
+# Hello there, I'm Emmanuel! 👋
 
 I'm a recent **Computer Science** graduate from **CSULB** and a first-generation Mexican-American based in the **South Bay, CA**. 
 
-Currently, I am pivoting my focus toward **Cybersecurity** and **Systems Administration**. I'm particularly interested in defensive (Blue Team) operations, network hardening, and virtualization. Outside of my professional life, I’m a fitness enthusiast—chasing a 275+ lbs bench press, and an avid modder of everything from handheld consoles to my mechanical keyboards, controllers, and PCs.
+Currently, I am pivoting my focus toward **Cybersecurity** and **Systems Administration**. I'm particularly interested in defensive (Blue Team) operations, network hardening, and virtualization. Outside of my professional life, I’m a fitness enthusiast chasing a 275+ lbs bench press, and an avid modder of everything from handheld consoles to my mechanical keyboards, controllers, and PCs.
 
 ### Technical Focus
 * **Systems Administration:** Managing a self-hosted **Proxmox VE** environment utilizing Docker and Linux (Debian/Ubuntu) for home infrastructure.
