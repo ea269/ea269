@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3fc31f6f-0390-412c-8096-298e38fc81d6" width="1100" height="200" alt="banner">
+<img src="https://github.com/user-attachments/assets/3fc31f6f-0390-412c-8096-298e38fc81d6" width="1100" height="100" alt="banner">
 
 # Hello there, I'm Emmanuel! 👋
 
