@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/3fc31f6f-0390-412c-8096-298e38fc81d6" width="1100" height="300">
+
+
 # Hello there, I'm Emmanuel! 👋
 
 I'm a recent **Computer Science** graduate from **CSULB** and a first-generation Mexican-American based in the **South Bay, CA**. 
