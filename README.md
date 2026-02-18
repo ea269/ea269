@@ -13,4 +13,4 @@ Currently, I am pivoting my focus toward **Cybersecurity** and **Systems Adminis
 <img src="https://github.com/user-attachments/assets/1edb2c11-e8b7-4222-83b7-306f2d64b231" height="120" width="120">
 <img src="https://github.com/user-attachments/assets/70c00e87-18c1-4a04-9d32-b99d37242604" height="120" width="120">
 <img src="https://github.com/user-attachments/assets/9732d3df-eb7d-4b33-a6ec-b3a6fc58a200" height="120" width="120">
-<img src="https://github.com/user-attachments/assets/3ff2720b-a7cc-4c61-9243-a38db5dd29f1" height="120" width="120">
+<img src="https://github.com/user-attachments/assets/eebcccbb-47c2-45a5-adb5-e30e12ec01b8" height="120" width="120"/>
