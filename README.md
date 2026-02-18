@@ -5,9 +5,7 @@ I'm a recent **Computer Science** graduate from **CSULB** and a first-generation
 Currently, I am pivoting my focus toward **Cybersecurity** and **Systems Administration**. I'm particularly interested in defensive (Blue Team) operations, network hardening, and virtualization. Outside of my professional life, I’m a fitness enthusiast chasing a 275+ lbs bench press, and an avid modder of everything from handheld consoles to my mechanical keyboards, controllers, and PCs.
 
 ### Technical Focus
-* **Systems Administration:** Managing a self-hosted **Proxmox VE** environment utilizing Docker and Linux (Debian/Ubuntu) for home infrastructure.
-* **Network Security:** Implementing DNS sinkholing via **Pi-hole** and exploring network segmentation.
-* **SOC Operations:** Currently studying for the **Splunk Core Certified User** exam to build expertise in security observability.
+* **Systems Administration:** Architecting and managing a self-hosted Proxmox VE environment. I utilize Docker, LXC, and Linux to maintain 99.9% uptime for core services and am currently deploying an Active Directory lab to master IAM and Group Policy.
 
 ## Certificates
 <img src="https://github.com/user-attachments/assets/1edb2c11-e8b7-4222-83b7-306f2d64b231" height="120" width="120">
